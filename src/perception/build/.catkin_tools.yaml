@@ -1,0 +1,6 @@
+devel_space: /home/mayur/my_ws/src/perception/devel
+install: false
+install_space: /home/mayur/my_ws/src/perception/install
+profile: default
+source_space: /home/mayur/my_ws/src/perception/src
+workspace: /home/mayur/my_ws/src/perception

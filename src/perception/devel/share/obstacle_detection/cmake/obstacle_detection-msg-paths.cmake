@@ -1,0 +1,1 @@
+/home/mayur/my_ws/src/perception/devel/.private/obstacle_detection/share/obstacle_detection/cmake/obstacle_detection-msg-paths.cmake

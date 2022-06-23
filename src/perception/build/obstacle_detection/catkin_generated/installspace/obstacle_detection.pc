@@ -1,0 +1,8 @@
+prefix=/home/mayur/my_ws/src/perception/install
+
+Name: obstacle_detection
+Description: Description of obstacle_detection
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lobstacle_detection
+Requires: cv_bridge rospy sensor_msgs message_runtime

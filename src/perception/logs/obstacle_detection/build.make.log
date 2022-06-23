@@ -1,0 +1,18 @@
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _obstacle_detection_generate_messages_check_deps_BoundingBox
+[  0%] Built target _obstacle_detection_generate_messages_check_deps_BoundingBoxes
+[ 33%] Built target obstacle_detection_generate_messages_cpp
+[ 33%] Built target obstacle_detection_generate_messages_nodejs
+[ 58%] Built target obstacle_detection_generate_messages_py
+[ 75%] Built target obstacle_detection_generate_messages_lisp
+[100%] Built target obstacle_detection_generate_messages_eus
+[100%] Built target obstacle_detection_generate_messages

@@ -1,0 +1,1 @@
+/home/mayur/my_ws/src/perception/devel/.private/obstacle_detection/share/roseus/ros/obstacle_detection/msg/BoundingBox.l
